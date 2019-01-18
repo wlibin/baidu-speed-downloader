@@ -2,12 +2,6 @@
 =================
 这是一款通过算法来提速的高速下载器，支持Windows和Mac。
 
-
-新版本已经移除挖矿，依然免费使用！赞助作者维持项目。
-
-微信二维码
-<img src="https://img.hacpai.com/file/2018/04/bd899f8c255645e1aa251865d21ac6ae_2731524121462_pic.jpg" width=256 height=256 />
-
 效果图
 ----
 ![7551513691037_.pic.jpg](https://img.hacpai.com/file/2017/12/7b7365edcfb848bcb3448d404b9bd440_7551513691037_pic.jpg)
